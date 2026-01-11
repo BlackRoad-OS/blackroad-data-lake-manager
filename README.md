@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Data Lake Manager
+# BlackRoad Data Lake Manager
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Unified data lake management with schema evolution, partitioning, and optimization.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-data-lake-manager.sh
-```
+- **Multi-Format** - Parquet, Delta, Iceberg, Hudi
+- **Schema Evolution** - Safe schema changes
+- **Partitioning** - Automatic partition management
+- **Compaction** - Optimize small files
+- **Time Travel** - Query historical data
+- **Governance** - Access control and auditing
 
-## 🎨 BlackRoad Design System
+## Storage Backends
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+S3, GCS, Azure Blob, MinIO, HDFS
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
